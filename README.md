@@ -28,7 +28,7 @@ This project was built to practice Python fundamentals, modules, strings, lists,
 No external libraries are required.
 
 ---
-📥 Installation
+## 📥 Installation
 1. Clone the Repository
 git clone https://github.com/rupammajumder0018-netizen/Password-Generator.git
 2. Navigate to the Project
@@ -37,7 +37,10 @@ cd Password-Generator
 cd "Password generator"
 4. Run the Program
 python password.py
-💻 Usage
+
+---
+
+## 💻 Usage
 
 After running the program, enter the desired password length.
 
@@ -53,7 +56,9 @@ a8@Kz!2Qp#Lm
 
 The program generates a randomized password based on the requested length.
 
-🔎 How It Works
+---
+
+## 🔎 How It Works
 
 The program uses Python's built-in string module to access different character sets:
 
@@ -66,7 +71,9 @@ These character sets are combined and randomized using Python's random module.
 
 The program then selects the required number of characters and combines them to create the final password.
 
-🔄 Program Flow
+---
+
+## 🔄 Program Flow
 User enters password length
             ↓
 Collect lowercase letters
@@ -84,6 +91,8 @@ Randomize characters
 Select requested length
             ↓
 Display generated password
+
+---
 
 ## 📂 Project Structure
 
